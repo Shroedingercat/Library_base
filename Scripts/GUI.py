@@ -191,6 +191,13 @@ class Main(Frame):
             for j in range(len(self.rows[i])):
                 self.rows[i][j].destroy()
 
+    def Del_str(self):
+        if self.Table_name:
+            ID = askinteger("Library base", "Введите id строки, которую вы хотите удалить")
+            self.Lib.DEL(self.Table_name, ID)
+        else:
+            showwarning("warning", "Не одна таблица не выбрана!")
+
 if __name__ == '__main__':
     root = Tk()
     app = Main(root)
@@ -234,7 +241,7 @@ if __name__ == '__main__':
     imgobj5 = Image.open(Path[:Path.find("Scripts")] + "Graphics\\" +"Del2.png")
     imgobj5.thumbnail((32, 32), Image.ANTIALIAS)
     img5 = PhotoImage(imgobj5)
-    btn_Del = Button(toolbar, image=img5, command=None)
+    btn_Del = Button(toolbar, image=img5, command=app.Del_str)
     btn_Del.config(width=32, height=32)
     btn_Del.pack(side=LEFT)
     btn_ttp = CreateToolTip(btn_Del, "Удалить строку")

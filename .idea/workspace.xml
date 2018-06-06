@@ -14,8 +14,8 @@
       <file leaf-file-name="GUI.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/GUI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="547">
-              <caret line="233" column="69" lean-forward="false" selection-start-line="233" selection-start-column="69" selection-end-line="233" selection-end-column="69" />
+            <state relative-caret-position="348">
+              <caret line="210" column="51" lean-forward="false" selection-start-line="210" selection-start-column="24" selection-end-line="210" selection-end-column="51" />
               <folding>
                 <element signature="e#0#60#0" expanded="true" />
               </folding>
@@ -23,21 +23,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Notes/1">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/Data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1887">
-              <caret line="113" column="74" lean-forward="false" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="74" />
+            <state relative-caret-position="451">
+              <caret line="115" column="25" lean-forward="true" selection-start-line="115" selection-start-column="25" selection-end-line="115" selection-end-column="25" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -48,22 +38,10 @@
       <file leaf-file-name="SearchDialog.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/SearchDialog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            <state relative-caret-position="215">
+              <caret line="96" column="85" lean-forward="false" selection-start-line="96" selection-start-column="62" selection-end-line="96" selection-end-column="85" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ner.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/Data/ner.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -82,8 +60,8 @@
       <file leaf-file-name="Skrolbar.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Scripts/Skrolbar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="140">
+              <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="61" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -101,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PasswordDialog.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="PasswordDialog.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Scripts/PasswordDialog.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="158">
+              <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -131,8 +109,8 @@
       <find>max</find>
       <find>fi</find>
       <find>askopenfilename</find>
-      <find>os</find>
       <find>PAth</find>
+      <find>os</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -148,14 +126,14 @@
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.csv" />
         <option value="$PROJECT_DIR$/Data/orders.csv" />
         <option value="$PROJECT_DIR$/Notes/Идеи.txt" />
-        <option value="$PROJECT_DIR$/Scripts/PasswordDialog.py" />
-        <option value="$PROJECT_DIR$/Scripts/Skrolbar.py" />
         <option value="$PROJECT_DIR$/Scripts/AskIntDialog.py" />
         <option value="$PROJECT_DIR$/Scripts/AskDialog.py" />
-        <option value="$PROJECT_DIR$/Scripts/SearchDialog.py" />
         <option value="$PROJECT_DIR$/Scripts/Data.py" />
-        <option value="$PROJECT_DIR$/Scripts/GUI.py" />
         <option value="$PROJECT_DIR$/Notes/1" />
+        <option value="$PROJECT_DIR$/Scripts/GUI.py" />
+        <option value="$PROJECT_DIR$/Scripts/SearchDialog.py" />
+        <option value="$PROJECT_DIR$/Scripts/Skrolbar.py" />
+        <option value="$PROJECT_DIR$/Scripts/PasswordDialog.py" />
       </list>
     </option>
   </component>
@@ -194,11 +172,6 @@
               <item name="Library_base" type="b2602c69:ProjectViewProjectNode" />
               <item name="Library_base" type="462c0819:PsiDirectoryNode" />
               <item name="Graphics" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Library_base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Library_base" type="462c0819:PsiDirectoryNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Library_base" type="b2602c69:ProjectViewProjectNode" />
@@ -349,9 +322,9 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13510254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23298731" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969843" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -487,32 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Skrolbar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/ToolTip.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/AskDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
@@ -520,13 +467,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/SearchDialog.py">
+    <entry file="file://$USER_HOME$/Desktop/Data/neural network.py" />
+    <entry file="file://$PROJECT_DIR$/Notes/1">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -540,42 +486,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/Data/neural network.py" />
-    <entry file="file://$PROJECT_DIR$/Scripts/PasswordDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scripts/Data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1887">
-          <caret line="113" column="74" lean-forward="false" selection-start-line="113" selection-start-column="74" selection-end-line="113" selection-end-column="74" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Scripts/GUI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="547">
-          <caret line="233" column="69" lean-forward="false" selection-start-line="233" selection-start-column="69" selection-end-line="233" selection-end-column="69" />
+        <state relative-caret-position="348">
+          <caret line="210" column="51" lean-forward="false" selection-start-line="210" selection-start-column="24" selection-end-line="210" selection-end-column="51" />
           <folding>
             <element signature="e#0#60#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Notes/1">
+    <entry file="file://$PROJECT_DIR$/Scripts/Data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="115" column="25" lean-forward="true" selection-start-line="115" selection-start-column="25" selection-end-line="115" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/SearchDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="96" column="85" lean-forward="false" selection-start-line="96" selection-start-column="62" selection-end-line="96" selection-end-column="85" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/AskDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/ToolTip.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="true" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/Skrolbar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scripts/PasswordDialog.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="61" lean-forward="false" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

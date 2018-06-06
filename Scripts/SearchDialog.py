@@ -93,7 +93,8 @@ class Search_dialog(Toplevel):
                         self.frame.add_column("Кол-во", [self.count])
 
                     if self.states[1]:
-                        Path = askopenfilename(initialdir=os.path.abspath(os.curdir)[:8] + "Data",
+                        Path = os.path.abspath(os.curdir)
+                        Path = askopenfilename(initialdir=Path[:Path.find("Scripts")] + "Data",
                                                filetypes=[("Text files", ".txt"), ("CSV files", ".csv")])
                         with open(Path, "w") as f:
                             f.write("Average score {}, count {}".format(self.average, self.count))

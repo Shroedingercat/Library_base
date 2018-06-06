@@ -9,7 +9,8 @@ class ScrolledList(Toplevel):
         self.name = name  # запретить доступ к др. окнам, пока открыт диалог
         w, h = self.winfo_screenwidth(), self.winfo_screenheight()
         self.geometry("+{}+{}".format(int(w / 2.2), int(h / 2.3)))
-        imgicon = PhotoImage(file=os.path.abspath(os.curdir)[:8] + "Graphics\\" + "logo3.png")
+        Path = os.path.abspath(os.curdir)
+        imgicon = PhotoImage(file=Path[:Path.find("Scripts")] + "Graphics\\" + "logo3.png")
         self.tk.call('wm', 'iconphoto', self._w, imgicon)
         Label(self,text=Text).pack()
         self.makeWidgets(options)
