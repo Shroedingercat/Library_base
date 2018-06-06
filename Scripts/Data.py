@@ -109,9 +109,9 @@ class DataBase:
 
     def DEL(self, table, value = '*'):
         if value == '*':
-            del_stmt = ("DELETE * FROM ".format(table))
+            del_stmt = ("DELETE * FROM {}".format(table))
         else:
-            pass
+            del_stmt = ("DELETE FROM {} WHERE id = {}".format(table, value))
         self.cursor.execute(del_stmt)
         self.cnx.commit()
 
